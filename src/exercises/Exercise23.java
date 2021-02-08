@@ -1,6 +1,7 @@
 package exercises;
 
 public class Exercise23 {
+
     public static void main(String[] args) {
         int[] myArray1 = {1,2,3,4,5,6};
         int[] myArray2 = {1,8,3,4,5,6};

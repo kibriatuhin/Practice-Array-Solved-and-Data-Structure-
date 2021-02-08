@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cac1f6c4-a636-430d-bedc-a04ea9263320" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/Exercise19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/Exercise19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/Exercise23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/Exercise23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,6 +167,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -177,7 +179,7 @@
       <recent name="D:\Problem Solve Practice\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise23">
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -387,48 +389,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration name="Exercise19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise19" />
-      <module name="Problem Solve Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise20" />
-      <module name="Problem Solve Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise21" />
-      <module name="Problem Solve Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Exercise22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise22" />
       <module name="Problem Solve Practice" />
@@ -450,6 +410,48 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise7" />
+      <module name="Problem Solve Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p_Data_Structure.InsertionSort" />
+      <module name="Problem Solve Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p_Data_Structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p_Data_Structure.MergeSort" />
+      <module name="Problem Solve Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p_Data_Structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -575,19 +577,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Exercise19" />
-      <item itemvalue="Application.Exercise20" />
-      <item itemvalue="Application.Exercise21" />
       <item itemvalue="Application.Exercise22" />
       <item itemvalue="Application.Exercise23" />
+      <item itemvalue="Application.Exercise7" />
+      <item itemvalue="Application.InsertionSort" />
+      <item itemvalue="Application.MergeSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.Exercise23" />
+        <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise22" />
-        <item itemvalue="Application.Exercise21" />
-        <item itemvalue="Application.Exercise20" />
-        <item itemvalue="Application.Exercise19" />
       </list>
     </recent_temporary>
   </component>
@@ -613,6 +615,11 @@
       <workItem from="1612545847229" duration="4656000" />
       <workItem from="1612594898734" duration="143000" />
       <workItem from="1612619680494" duration="3742000" />
+      <workItem from="1612635473551" duration="347000" />
+      <workItem from="1612758670464" duration="57000" />
+      <workItem from="1612758900016" duration="659000" />
+      <workItem from="1612767171697" duration="52000" />
+      <workItem from="1612767239990" duration="9036000" />
     </task>
     <servers />
   </component>
