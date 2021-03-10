@@ -178,7 +178,7 @@
       <recent name="D:\Problem Solve Practice\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackPractice">
+  <component name="RunManager" selected="Application.Problem5">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -286,13 +286,13 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Exercise33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise33" />
+    <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternPractice.Problem3" />
       <module name="Problem Solve Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="patternPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,13 +300,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise34" />
+    <configuration name="Problem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternPractice.Problem4" />
       <module name="Problem Solve Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="patternPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,13 +314,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p_Data_Structure.StackPractice" />
+    <configuration name="Problem5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternPractice.Problem5" />
       <module name="Problem Solve Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p_Data_Structure.*" />
+          <option name="PATTERN" value="patternPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,13 +328,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Test2" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternPractice.Test" />
       <module name="Problem Solve Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="patternPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,13 +342,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Test3" />
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternPractice.Teste" />
       <module name="Problem Solve Practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="patternPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -502,19 +502,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Exercise33" />
-      <item itemvalue="Application.Test2" />
-      <item itemvalue="Application.Exercise34" />
-      <item itemvalue="Application.Test3" />
-      <item itemvalue="Application.StackPractice" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Problem3" />
+      <item itemvalue="Application.Problem4" />
+      <item itemvalue="Application.Teste" />
+      <item itemvalue="Application.Problem5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StackPractice" />
-        <item itemvalue="Application.Exercise34" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Exercise33" />
+        <item itemvalue="Application.Problem5" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Problem4" />
+        <item itemvalue="Application.Problem3" />
       </list>
     </recent_temporary>
   </component>
@@ -561,6 +561,17 @@
       <workItem from="1614003263980" duration="1131000" />
       <workItem from="1614145839295" duration="3974000" />
       <workItem from="1614394848929" duration="5993000" />
+      <workItem from="1614443194565" duration="134000" />
+      <workItem from="1614602699749" duration="3473000" />
+      <workItem from="1614620386076" duration="108000" />
+      <workItem from="1614684406886" duration="627000" />
+      <workItem from="1614733638625" duration="77000" />
+      <workItem from="1614733894058" duration="225000" />
+      <workItem from="1615028444796" duration="1057000" />
+      <workItem from="1615076283357" duration="171000" />
+      <workItem from="1615174845945" duration="3056000" />
+      <workItem from="1615342950320" duration="17000" />
+      <workItem from="1615356378541" duration="4656000" />
     </task>
     <servers />
   </component>
